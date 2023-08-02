@@ -2,7 +2,7 @@
 
 This tutorial will explain everything up to settings and important commands.
 
-**I know that's hard because my executor, lacks WS (WebSocket) support. Which is pretty useful for real-time access with an interface and better communication between the bots. And I cannot afford Synapse, which has those abilities. 
+**I know that's hard because my executor, lacks WS (WebSocket) support. Which is pretty useful for real-time access with an interface and better communication between the bots. And I cannot afford Synapse, which has those abilities. **
 
 Even if the script doesn't have the best abilities cuz a lack of features with executors, it still works and maybe can reach more people.
 
