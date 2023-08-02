@@ -1,6 +1,6 @@
 local BotNicknames = {
 	"batname1",
-  "botname2"
+  	"botname2"
 }
 
 --ANTI_AFK
@@ -22,19 +22,8 @@ local gl = {
 		"Bot's are deactivated by the owner."
 	},
 	FunPh = {
-		["UNDERSTOOD?"] = "YES SIR YES!",
-		["AM I YOUR WIFE SOILDER?"] = "NO SIR NO!",
-		["ARE YOU READY?"] = "YES SIR!",
-		["WHAT IS THE PURPOSE OF FIGHT?"] = "MY LAND, AND MY COUNTRY!",
-		["HOW'S GOING?"] = "ALL FINE SERGANT!",
-		["DO YOU KNOW WHAT IS HAPPENING?"] = "NO SIR, TELL ME!"
 	},
 	trolls = {
-		"NIGGERS",
-		"FUCK NIGGERS",
-		"FUCK ROBLOX",
-		"I LOVE PUSSY",
-		"HITLER <3 JEWS"
 	},
 	--Changable in-game. Depends on you.
 	prefix=".",
@@ -46,10 +35,10 @@ local gl = {
 
 	--{TheRankName,Rank's Number, people within rank (You can put names right now for permament access, after script reloaded they will disappear. ADD YOUR NAME!)}
 	ranks = {
-		Owner={math.huge,{"ko1r","Seuika","lastreviam"},"Owner"},
-		HeadAdmin={8,{"In4antry","u_ripl"},"HeadAdmin"},
+		Owner={math.huge,{"owner1","owner2"},"Owner"},
+		HeadAdmin={8,{},"HeadAdmin"},
 		Admin ={6,{},"Admin"},
-		VIP={5,{"Cr0ssPIay","VIP"}},
+		VIP={5,{}","VIP"},
 		Tester = {1,{},"Tester"}
 	},
 
