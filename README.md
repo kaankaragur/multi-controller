@@ -1,4 +1,4 @@
-# EVERYTHING YOU HAVE TO KNOW!
+# SCRIPT IS NOT UP-TO-DATE! DON'T USE IT!
 
 This tutorial will explain everything up to settings and important commands.
 
