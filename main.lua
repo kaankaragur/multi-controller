@@ -38,7 +38,7 @@ local gl = {
 		Owner={math.huge,{"owner1","owner2"},"Owner"},
 		HeadAdmin={8,{},"HeadAdmin"},
 		Admin ={6,{},"Admin"},
-		VIP={5,{}","VIP"},
+		VIP={5,{},"VIP"},
 		Tester = {1,{},"Tester"}
 	},
 
